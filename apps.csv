@@ -21,7 +21,6 @@ tools,dotnet-sdk,Programming environment
 tools,imagemagick,Manipulate images
 tools,keepassxc,Pasword manager
 tools,pkgfile,See which package owns what
-tools,yay,Install AUR packages
 tools,zathura-pdf-mupdf,Pdf reader
 tmux,tmux,Terminal multiplexer
 tmux,tmuxp,Configure tmux session + windows + panes via config files
